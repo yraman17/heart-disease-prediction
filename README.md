@@ -12,6 +12,7 @@ on two classification tasks:
 2. Multiclass classification – What is the severity of disease (0–4)?
 
 <br>
+
 **Dataset**
 
 We used the [UCI Heart Disease dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) from the UCI Machine Learning Repository, specifically the Cleveland subset.
