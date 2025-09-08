@@ -26,3 +26,8 @@ Data is loaded directly in the notebook using:
 ```python
 from ucimlrepo import fetch_ucirepo
 heart_disease = fetch_ucirepo(id=45)
+```
+
+**Authors**
+1. Yashas Raman
+2. Raghav Sriram
